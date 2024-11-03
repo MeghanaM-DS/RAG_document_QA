@@ -1,0 +1,9 @@
+PyPDF2
+nltk
+faiss-cpu
+rouge_score
+bert-score
+sentence-transformers
+numpy
+pandas
+transformers
