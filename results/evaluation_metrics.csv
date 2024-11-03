@@ -1,0 +1,3 @@
+Method,Semantic Similarity,ROUGE-L F1 Score,BERT Precision,BERT Recall,BERT F1 Score
+RAG,0.9294 | 0.1034,0.56 | 0.0,0.643 | 0.122,0.926 | 0.3267,0.7578 | 0.1932
+LLM,1.0 | 0.0912,1.0 | 0.0,1.0 | 0.275,1.0 | 0.2218,1.0 | 0.2699
