@@ -1,3 +1,3 @@
-Method,Semantic Similarity,ROUGE-L F1 Score,BERT Precision,BERT Recall,BERT F1 Score
-RAG,0.9294 | 0.1034,0.56 | 0.0,0.643 | 0.122,0.926 | 0.3267,0.7578 | 0.1932
-LLM,1.0 | 0.0912,1.0 | 0.0,1.0 | 0.275,1.0 | 0.2218,1.0 | 0.2699
+Method,Semantic Similarity,Semantic Similarity avg,ROUGE-L F1 Score,ROUGE-L F1 avg,BERT Precision,BERT Precision avg,BERT Recall,BERT Recall avg,BERT F1 Score,BERT F1 avg
+RAG,0.9294 | 0.1034,0.4051,0.56 | 0.0,0.1107,0.643 | 0.122,0.3332,0.926 | 0.3267,0.5382,0.7578 | 0.1932,0.406
+LLM,1.0 | 0.0912,0.3913,1.0 | 0.0,0.229,1.0 | 0.275,0.5309,1.0 | 0.2218,0.4639,1.0 | 0.2699,0.4858
